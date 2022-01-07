@@ -23,6 +23,8 @@
         <a href="{{ route('posts.series.show_serie', $serie->id) }}">Ver</a> |
      ]</p>
 @endforeach
+<hr>
+<a href="{{route('posts.index')}}">Ir Para Página de Filmes</a>
 </body>
 </html>
 

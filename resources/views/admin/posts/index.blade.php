@@ -23,6 +23,8 @@
      ]</p>
 @endforeach
 <hr>
+
+ <a href="{{route('posts.series.serie_index')}}">Ir Para Página de Séries</a>
 </body>
 </html>
 

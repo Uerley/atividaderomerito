@@ -1,4 +1,4 @@
-<h1>Cadastrar Filme ou Série</h1>
+<h1>Cadastrar Filme</h1>
 @if($errors->any())
     <ul>
         @foreach($errors->all() as $error)

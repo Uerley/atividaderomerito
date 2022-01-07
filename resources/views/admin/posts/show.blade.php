@@ -6,3 +6,4 @@
     <li> <strong>Diretor:</strong> {{$post->director}}</li>
     <li> <strong>Ano:</strong> {{$post->year}}</li>
 </ul>
+<a href="/posts">Voltar</a>

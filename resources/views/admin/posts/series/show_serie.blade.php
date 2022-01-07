@@ -6,3 +6,4 @@
     <li> <strong>Ano:</strong> {{$serie->year}}</li>
     <li> <strong>Temporada:</strong> {{$serie->temp}}</li>
 </ul>
+<a href="/series">Voltar</a>
